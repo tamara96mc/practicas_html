@@ -1,0 +1,19 @@
+h1{
+    color: rgb(45, 221, 45);
+    text-align: center;
+}
+h3{
+    color: rgb(45, 221, 45);
+}
+h4{
+    color: rgb(245, 172, 38);
+}
+span{
+
+    color: rgb(245, 172, 38);
+}
+
+div{
+    border-style: groove;
+    padding: 0.5rem;
+}

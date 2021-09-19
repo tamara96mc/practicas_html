@@ -1,0 +1,12 @@
+h1{
+    background-color: bisque;
+}
+body{
+    background-color: blanchedalmond;
+}
+.texto_azul, em{
+    color: cadetblue;
+}
+ul{
+    list-style-type: none;
+}
